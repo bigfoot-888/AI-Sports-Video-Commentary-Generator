@@ -29,6 +29,7 @@ This project generates creative sports-style commentary for any type of video us
 
 ```bash
 pip install -r requirements.txt
+```
 
 ---
 
