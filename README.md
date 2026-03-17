@@ -1,4 +1,4 @@
-# Creative Sports Video Commentary with AI
+# AI Sports Video Commentary Generator
 
 ![Built with Llama](https://img.shields.io/badge/Built%20with-Llama%203.2-044DFE?style=for-the-badge&logo=meta&logoColor=white)
 
